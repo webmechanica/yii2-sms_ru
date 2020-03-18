@@ -1,7 +1,6 @@
 {
 	"name": "webmechanica/yii2-sms_ru",
 	"description": "Yii2 extension for sms.ru",
-	"version": "1.1.2",
 	"type": "yii2-extension",
 	"keywords": ["yii", "yii2", "sms", "sms.ru"],
 	"homepage": "https://github.com/webmechanica/yii2-sms_ru",
