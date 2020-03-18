@@ -1,0 +1,33 @@
+{
+	"name": "webmechanica/yii2-sms_ru",
+	"description": "Yii2 extension for sms.ru",
+	"version": "1.1.1",
+	"type": "yii2-extension",
+	"keywords": ["yii", "yii2", "sms", "sms.ru"],
+	"homepage": "https://github.com/webmechanica/yii2-sms_ru",
+	"time": "2014-03-30",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Aleksandr Zelenin",
+			"email": "aleksandr@zelenin.me",
+			"homepage": "http://zelenin.me",
+			"role": "Developer"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/webmechanica/yii2-sms_ru/issues",
+		"source": "https://github.com/webmechanica/yii2-sms_ru"
+	},
+	"require": {
+		"php": ">=5.4.0",
+		"yiisoft/yii2": "*",
+		"webmechanica/smsru": "1.1.2"
+	},
+	"autoload": {
+		"psr-4": {
+			"webmechanica\\yii\\extensions\\": ""
+		}
+	},
+	"minimum-stability": "stable"
+}
