@@ -4,7 +4,6 @@
 	"type": "yii2-extension",
 	"keywords": ["yii", "yii2", "sms", "sms.ru"],
 	"homepage": "https://github.com/webmechanica/yii2-sms_ru",
-	"time": "2014-03-30",
 	"license": "MIT",
 	"authors": [
 		{
